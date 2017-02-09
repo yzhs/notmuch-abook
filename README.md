@@ -4,7 +4,7 @@ Notmuch Addressbook manager for vim
 DEPENDENCES
 -----------
 
-* notmuch with python bindings
+* notmuch with python or python3 bindings
 
 INSTALL
 -------
